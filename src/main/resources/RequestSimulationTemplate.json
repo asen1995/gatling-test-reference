@@ -1,0 +1,19 @@
+{
+  "documents": [
+    {
+      "documentClass": "string",      
+      "documentId": "string",
+      "documentType": "string",
+      "metaInfos": [
+        {
+          "name": "string",
+          "value": "string"
+        }
+      ]
+    }
+  ],
+  "id": "{{personId}}",
+  "requestId": "{{requestId}}",
+  "signatureType": "string",
+  "tenantId": "string"
+}
